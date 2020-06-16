@@ -11,14 +11,9 @@ sudo apt-get install dconf-editor
 
 """
 then config,we need open installed program manager,search for "dconf-editor".
-
 Search in turn:
 org->gnome->desktop->remote-access 
 
 then Uncheck the "requlre-encryption" option.
-
-
-
-
 we must make some settings so that we can access the desktop remotely, very important...
 """
